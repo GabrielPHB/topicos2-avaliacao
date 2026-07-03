@@ -97,6 +97,4 @@ Validation:
 - `npm run typecheck` validates TypeScript strict mode.
 - `npm test` runs the complete automated test suite.
 
-## Delivery Notes
 
-Before submitting the public GitHub repository link in SIGAA, confirm that the Team section contains the full legal names of all team members. The absence of full names in this README causes a zero grade according to the assignment statement.
