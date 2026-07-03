@@ -4,7 +4,7 @@ Refactored solution for the final assessment of Topicos Especiais em Computacao 
 
 ## Team
 
-- Miguel Angelo Assução Veras Carvalho
+- Miguel Angelo Assunção Veras Carvalho
 - Gabriel Rocha Silva Machado
 
 ## Setup
